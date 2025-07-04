@@ -1,15 +1,15 @@
 [
   {
-    "name": "Nyaa (FR only)",
-    "id": "nyaa-fr",
+    "name": "Nyaa",
+    "id": "nyaa",
     "version": "0.0.1",
-    "type": "torrent",
-    "accuracy": "medium",
+    "type": "bangumi",
+    "accuracy": "high",
     "ratio": 0,
     "media": "sub",
-    "languages": ["FR"],
+    "languages": ["US"],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:Lolo280374/hayase-testing",
-    "code": "nyaa/index.js"
+    "update": "gh:hayase-app/extensions",
+    "code": "nyaa.js"
   }
 ]
