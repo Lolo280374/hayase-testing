@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nyaa (FR only)",
+    "id": "nyaa-fr",
+    "version": "0.0.1",
+    "type": "torrent",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["FR"],
+    "icon": "https://nyaa.si/static/favicon.png",
+    "update": "gh:yourusername/your-repo-name",
+    "code": "gh:yourusername/your-repo-name/nyaa"
+  }
+]
